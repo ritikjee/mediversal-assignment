@@ -97,17 +97,22 @@ It includes:
 
 ---
 
+## Video
+
+[Working Video](https://github.com/user-attachments/assets/50f75ac1-964f-4b84-af7e-65d0ecdd0bfd)
+
 ## Screenshots
 
 ### Login with Email/Password
 
-![Email Login Screenshot](https://via.placeholder.com/600x400)
+![Email Login Screenshot](https://github.com/user-attachments/assets/7c801be6-c10f-4627-ba8e-c6cdb48b8d52)
 
 ### Login with Phone/OTP
 
-![Phone Login Screenshot](https://via.placeholder.com/600x400)
+![Phone Login Screenshot](https://github.com/user-attachments/assets/1e360ca0-65ef-4118-989c-d793edb4b31a)
 
 ---
+
 
 ## License
 
