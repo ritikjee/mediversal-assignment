@@ -39,11 +39,11 @@ It includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/login-screen.git
+   git clone https://github.com/ritikjee/mediversal-assignment
    ```
 2. Navigate to the project directory:
    ```bash
-   cd login-screen
+   cd mediversal-assignment
    ```
 3. Install dependencies:
    ```bash
@@ -124,4 +124,4 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 ## Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/your-profile)
+[GitHub Profile](https://github.com/ritikjee)
