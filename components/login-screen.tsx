@@ -165,7 +165,7 @@ export default function LoginScreen() {
           </form>
         )}
 
-        {showOTP && (
+        {loginMethod === "phone" && showOTP && (
           <form onSubmit={handleSubmitOTP(onSubmitOTP)} className="space-y-4">
             <div>
               <Label htmlFor="otp">Enter OTP</Label>
