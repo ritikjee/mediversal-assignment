@@ -129,4 +129,4 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 ## Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/ritikjee)
+[Ritik Jha](https://github.com/ritikjee)
